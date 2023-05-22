@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/p3/tp_projekt_3-master/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/sdl2-populate.dir
+C:/Users/User/Desktop/p3/tp_projekt_3-master/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/p3/tp_projekt_3-master/build/SDL2_gfx/sdl2-subbuild/CMakeFiles/rebuild_cache.dir

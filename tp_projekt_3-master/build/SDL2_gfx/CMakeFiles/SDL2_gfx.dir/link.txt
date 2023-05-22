@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libSDL2_gfx.a CMakeFiles/SDL2_gfx.dir/SDL2_framerate.c.obj CMakeFiles/SDL2_gfx.dir/SDL2_gfxPrimitives.c.obj CMakeFiles/SDL2_gfx.dir/SDL2_imageFilter.c.obj CMakeFiles/SDL2_gfx.dir/SDL2_rotozoom.c.obj
+C:\msys64\mingw64\bin\ranlib.exe libSDL2_gfx.a
